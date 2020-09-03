@@ -1,0 +1,3 @@
+include ':ZendeskCoreLibrary'
+include ':app'
+rootProject.name = "ZendeskSdkLibrary"
